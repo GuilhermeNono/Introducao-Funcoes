@@ -1,0 +1,5 @@
+1. Criar um programa que tenha as funcoes de: Soma, subtração, multiplicação e divisão.
+2. Criar um programa com uma função que encontre a porcentagem de um valor.
+3. Criar um programa com uma função que converta Celsius para Fahrenheit.
+4. Criar uma função que retorne um true caso o valor seja impar.
+5. Criar um programa que calcule a raiz quadrada de um valor.

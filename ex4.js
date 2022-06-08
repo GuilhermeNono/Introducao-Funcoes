@@ -1,5 +1,5 @@
 /**
- * Criar uma função que retorne um true caso o valor seja impar;
+ * Criar uma função que retorne um true caso o valor seja impar.
  */
 
 const userInput = parseInt(prompt("Informe o valor a ser calculado:"))
